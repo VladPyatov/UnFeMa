@@ -10,7 +10,7 @@
 
 The training can be reproduced with:
 ```shell
-cd feature_
+cd feature_matching
 bash scripts/anhir_quadtree_ds.sh
 ```
 * For dataset setup check the TissueDataset class
